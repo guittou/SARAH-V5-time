@@ -2,7 +2,7 @@
   <rule id="ruleTime" scope="public">
     <example>Sarah il est quelle heure ?</example>
     <tag>out.action=new Object(); </tag>
-    <item>fifille</item> 
+    <item>sarah</item> 
     <one-of>
       <item>il est quelle heure</item>
       <item>quelle heure est il ici</item>
