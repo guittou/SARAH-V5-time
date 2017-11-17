@@ -1,4 +1,4 @@
-# SARAH-V5-time
+```html
 	<h3>Inputs</h3>
 	<p> - <code>msg.payload.options.plugin</code>:</p>
 	<dd>à utiliser avec un module <b>switch</b> pour rediriger vers le bon plugin</dd>
@@ -21,3 +21,4 @@
 	<p>sarah il est qu'elle heure</p>
 	<p>sarah peux tu me donner l'heure</p>
 	<p>sarah tu peux me donner l'heure</p>
+```
