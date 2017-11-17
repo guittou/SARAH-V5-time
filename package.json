@@ -1,0 +1,17 @@
+{
+    "name"          : "Sarah-Time",
+    "version"       : "0.1",
+    "description"   : "Donne l'heure",
+    "dependencies"  : {
+    },
+    "keywords": [ "sarah", "time"],
+    "node-red"      : {
+        "version": ">=0.1",
+        "nodes"     : {
+            "sarah-time": "sarah-time.js"
+        }
+    },
+    "author": {
+        "name": "Guirec ANDRE",
+    }
+}
